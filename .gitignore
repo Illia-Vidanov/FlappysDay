@@ -1,0 +1,5 @@
+.vscode/
+build/
+*.gch
+libs/
+*.exe
